@@ -15,12 +15,12 @@
 
 
 **Features:**
-- Database that contains high quality study matierals 
-- Elegant document editor for writing reports and essays
-- Advanced content review algorithms, that allows students to study with ease
-- Study timer for efficent and on-task study sessions 
+- Advanced database system that securely and accuretly stores user data
+- Elegant user interface for ease of use and efficency 
+- Advanced filter patterns, that allow users to express their interests
+- Full-functioning account system/database 
 - & More
 
 
 #### Created using code.org's Applab and Javascript 
-#### Developed by Jahan Taila & Tejaswin Gontla 
+#### Developed by Jahan Taila & Alena Polimati 
